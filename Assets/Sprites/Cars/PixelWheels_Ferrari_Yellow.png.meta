@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 22b37d7a69ceae343bdef219c55b2dfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4265819409531259730
+    second: PixelWheels_Ferrari_Yellow_0
+  - first:
+      213: 8011325040085061937
+    second: PixelWheels_Ferrari_Yellow_1
+  - first:
+      213: -44886167453837690
+    second: PixelWheels_Ferrari_Yellow_2
+  - first:
+      213: 6685435655635818737
+    second: PixelWheels_Ferrari_Yellow_3
+  - first:
+      213: -3839370703798068113
+    second: PixelWheels_Ferrari_Yellow_4
+  - first:
+      213: 2423181891072381631
+    second: PixelWheels_Ferrari_Yellow_5
+  - first:
+      213: -7992918772674563566
+    second: PixelWheels_Ferrari_Yellow_6
+  - first:
+      213: 8417773654755855300
+    second: PixelWheels_Ferrari_Yellow_7
+  - first:
+      213: 8816006154780315850
+    second: PixelWheels_Ferrari_Yellow_8
+  - first:
+      213: 7139843246103374551
+    second: PixelWheels_Ferrari_Yellow_9
+  - first:
+      213: 7337753200525077848
+    second: PixelWheels_Ferrari_Yellow_10
+  - first:
+      213: 3933572147697592419
+    second: PixelWheels_Ferrari_Yellow_11
+  - first:
+      213: 8968311826527005633
+    second: PixelWheels_Ferrari_Yellow_12
+  - first:
+      213: 456893661359002419
+    second: PixelWheels_Ferrari_Yellow_13
+  - first:
+      213: -8304810917613364094
+    second: PixelWheels_Ferrari_Yellow_14
+  - first:
+      213: -6079948425325384001
+    second: PixelWheels_Ferrari_Yellow_15
+  - first:
+      213: 9208220941498525881
+    second: PixelWheels_Ferrari_Yellow_16
+  - first:
+      213: 4015810763416472404
+    second: PixelWheels_Ferrari_Yellow_17
+  - first:
+      213: 17286647448729161
+    second: PixelWheels_Ferrari_Yellow_18
+  - first:
+      213: -4146944929050692318
+    second: PixelWheels_Ferrari_Yellow_19
+  - first:
+      213: 7860831550033988921
+    second: PixelWheels_Ferrari_Yellow_20
+  - first:
+      213: -1743350475990395316
+    second: PixelWheels_Ferrari_Yellow_21
+  - first:
+      213: -8673781254600678025
+    second: PixelWheels_Ferrari_Yellow_22
+  - first:
+      213: -988957446898078845
+    second: PixelWheels_Ferrari_Yellow_23
+  - first:
+      213: -5583754714498649323
+    second: PixelWheels_Ferrari_Yellow_24
+  - first:
+      213: 5983133849804798423
+    second: PixelWheels_Ferrari_Yellow_25
+  - first:
+      213: 2207778844361993957
+    second: PixelWheels_Ferrari_Yellow_26
+  - first:
+      213: 8913348231625134202
+    second: PixelWheels_Ferrari_Yellow_27
+  - first:
+      213: 4313236064618982430
+    second: PixelWheels_Ferrari_Yellow_28
+  - first:
+      213: -6397485138507261265
+    second: PixelWheels_Ferrari_Yellow_29
+  - first:
+      213: 7269756352694222789
+    second: PixelWheels_Ferrari_Yellow_30
+  - first:
+      213: 5465283499145990794
+    second: PixelWheels_Ferrari_Yellow_31
+  - first:
+      213: -363052516428852862
+    second: PixelWheels_Ferrari_Yellow_32
+  - first:
+      213: 7635595525074575787
+    second: PixelWheels_Ferrari_Yellow_33
+  - first:
+      213: -2582042646792137435
+    second: PixelWheels_Ferrari_Yellow_34
+  - first:
+      213: -5391693867757979471
+    second: PixelWheels_Ferrari_Yellow_35
+  - first:
+      213: -2310515336564332282
+    second: PixelWheels_Ferrari_Yellow_36
+  - first:
+      213: 174999759074279730
+    second: PixelWheels_Ferrari_Yellow_37
+  - first:
+      213: -2529681329866922108
+    second: PixelWheels_Ferrari_Yellow_38
+  - first:
+      213: -8817822749670190266
+    second: PixelWheels_Ferrari_Yellow_39
+  - first:
+      213: -3673175827030073212
+    second: PixelWheels_Ferrari_Yellow_40
+  - first:
+      213: 3794875700430418342
+    second: PixelWheels_Ferrari_Yellow_41
+  - first:
+      213: -457693329775129241
+    second: PixelWheels_Ferrari_Yellow_42
+  - first:
+      213: -4669305349273824250
+    second: PixelWheels_Ferrari_Yellow_43
+  - first:
+      213: -2109118315472205938
+    second: PixelWheels_Ferrari_Yellow_44
+  - first:
+      213: 3338328593194626601
+    second: PixelWheels_Ferrari_Yellow_45
+  - first:
+      213: 6296315778546716978
+    second: PixelWheels_Ferrari_Yellow_46
+  - first:
+      213: -5084394859588738121
+    second: PixelWheels_Ferrari_Yellow_47
+  - first:
+      213: -3834615140124522012
+    second: PixelWheels_Ferrari_Yellow_48
+  - first:
+      213: 6856854087242718943
+    second: PixelWheels_Ferrari_Yellow_49
+  - first:
+      213: 1488483146441019015
+    second: PixelWheels_Ferrari_Yellow_50
+  - first:
+      213: -4572838807066374431
+    second: PixelWheels_Ferrari_Yellow_51
+  - first:
+      213: -7486068028469098171
+    second: PixelWheels_Ferrari_Yellow_52
+  - first:
+      213: 4037601994841725789
+    second: PixelWheels_Ferrari_Yellow_53
+  - first:
+      213: -7751540113554561428
+    second: PixelWheels_Ferrari_Yellow_54
+  - first:
+      213: -5052912710996488712
+    second: PixelWheels_Ferrari_Yellow_55
+  - first:
+      213: -5022012841437966818
+    second: PixelWheels_Ferrari_Yellow_56
+  - first:
+      213: -3036815503832204484
+    second: PixelWheels_Ferrari_Yellow_57
+  - first:
+      213: -7394522207553399751
+    second: PixelWheels_Ferrari_Yellow_58
+  - first:
+      213: -5732103605786820992
+    second: PixelWheels_Ferrari_Yellow_59
+  - first:
+      213: -5970915190715009462
+    second: PixelWheels_Ferrari_Yellow_60
+  - first:
+      213: 8719735067552733409
+    second: PixelWheels_Ferrari_Yellow_61
+  - first:
+      213: -4959592059034409482
+    second: PixelWheels_Ferrari_Yellow_62
+  - first:
+      213: 7999667132819074194
+    second: PixelWheels_Ferrari_Yellow_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1522
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea43cea29d3ccc4c0800000000000000
+      internalID: -4265819409531259730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1521
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131567a9da1fd2f60800000000000000
+      internalID: 8011325040085061937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1522
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686d59db448806ff0800000000000000
+      internalID: -44886167453837690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1521
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f857eece4077cc50800000000000000
+      internalID: 6685435655635818737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1420
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c131fcfa0d7bac0800000000000000
+      internalID: -3839370703798068113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1419
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb25783671fd0a120800000000000000
+      internalID: 2423181891072381631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1420
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2127e2c79b2731190800000000000000
+      internalID: -7992918772674563566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1419
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb4d5b2a80f1d470800000000000000
+      internalID: 8417773654755855300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1322
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0965973eeb85a70800000000000000
+      internalID: 8816006154780315850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1322
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daa6f39a91d51360800000000000000
+      internalID: 7139843246103374551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1322
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d68c6a8afe4d560800000000000000
+      internalID: 7337753200525077848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1322
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368a2e1070bd69630800000000000000
+      internalID: 3933572147697592419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1224
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cba31f0718d57c70800000000000000
+      internalID: 8968311826527005633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1224
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3335e614d56375600800000000000000
+      internalID: 456893661359002419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1224
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c9ed0a8726fbc80800000000000000
+      internalID: -8304810917613364094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_15
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1224
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbee8cfbe1faf9ba0800000000000000
+      internalID: -6079948425325384001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1127
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b82557b82c2acf70800000000000000
+      internalID: 9208220941498525881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1127
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b01a6dc960bb730800000000000000
+      internalID: 4015810763416472404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1127
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946f9804d1a6d3000800000000000000
+      internalID: 17286647448729161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1127
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22573d8fe871376c0800000000000000
+      internalID: -4146944929050692318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1024
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d85f275a8471d60800000000000000
+      internalID: 7860831550033988921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1024
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46959f8aff5ec7e0800000000000000
+      internalID: -1743350475990395316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1024
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775a51497e980a780800000000000000
+      internalID: -8673781254600678025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_23
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1024
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ba9a711748642f0800000000000000
+      internalID: -988957446898078845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 921
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5133561dba48282b0800000000000000
+      internalID: -5583754714498649323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 920
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9fa31598c580350800000000000000
+      internalID: 5983133849804798423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 921
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eea1d0692b93ae10800000000000000
+      internalID: 2207778844361993957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_27
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 920
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a705f51edf292bb70800000000000000
+      internalID: 8913348231625134202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 820
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ca4082951bbdb30800000000000000
+      internalID: 4313236064618982430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 819
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa1f6f69219737a0800000000000000
+      internalID: -6397485138507261265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 820
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf7afdc2ec53e460800000000000000
+      internalID: 7269756352694222789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 819
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82966bd26698db40800000000000000
+      internalID: 5465283499145990794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 722
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281527be8ad26faf0800000000000000
+      internalID: -363052516428852862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_33
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 721
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1e1a8cca517f960800000000000000
+      internalID: 7635595525074575787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_34
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 722
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5259b0b94edba2cd0800000000000000
+      internalID: -2582042646792137435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_35
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 721
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b832a26efadc25b0800000000000000
+      internalID: -5391693867757979471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 620
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609adf30b866fefd0800000000000000
+      internalID: -2310515336564332282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_37
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 619
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231c66b8a59bd6200800000000000000
+      internalID: 174999759074279730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_38
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 620
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487285abb34c4ecd0800000000000000
+      internalID: -2529681329866922108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 619
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643dc819decc0a580800000000000000
+      internalID: -8817822749670190266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 522
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4802250fb02460dc0800000000000000
+      internalID: -3673175827030073212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_41
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 521
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1baeae75b1aa430800000000000000
+      internalID: 3794875700430418342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_42
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 522
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d00be6752f5a9f0800000000000000
+      internalID: -457693329775129241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_43
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 521
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604d3bc168b433fb0800000000000000
+      internalID: -4669305349273824250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_44
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 424
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8742011118eab2e0800000000000000
+      internalID: -2109118315472205938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 424
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e25e41b20245e20800000000000000
+      internalID: 3338328593194626601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 424
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231d6fd57d1016750800000000000000
+      internalID: 6296315778546716978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_47
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 424
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3246040d99079b0800000000000000
+      internalID: -5084394859588738121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 327
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e90b82c8d5b8cac0800000000000000
+      internalID: -3834615140124522012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 327
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde99c29670782f50800000000000000
+      internalID: 6856854087242718943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_50
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 327
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ec5cd098728a410800000000000000
+      internalID: 1488483146441019015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_51
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 327
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee00b935530a80c0800000000000000
+      internalID: -4572838807066374431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 224
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549c0be7ac42c1890800000000000000
+      internalID: -7486068028469098171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_53
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 224
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b13f64f91780830800000000000000
+      internalID: 4037601994841725789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_54
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 224
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66a36d065ffc6490800000000000000
+      internalID: -7751540113554561428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_55
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 224
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd8ffb29a270e9b0800000000000000
+      internalID: -5052912710996488712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 122
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ec3a0bde93e4ab0800000000000000
+      internalID: -5022012841437966818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 122
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bbea593601bd5d0800000000000000
+      internalID: -3036815503832204484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_58
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 122
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934da07ea31616990800000000000000
+      internalID: -7394522207553399751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_59
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 122
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e3759f32a7370b0800000000000000
+      internalID: -5732103605786820992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 20
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46b271f44c032da0800000000000000
+      internalID: -5970915190715009462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_61
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 19
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e85ff448d8b20970800000000000000
+      internalID: 8719735067552733409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 20
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5e762ac4dfb2bb0800000000000000
+      internalID: -4959592059034409482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Yellow_63
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 19
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c6c0d8fd6840f60800000000000000
+      internalID: 7999667132819074194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PixelWheels_Ferrari_Yellow_0: -4265819409531259730
+      PixelWheels_Ferrari_Yellow_1: 8011325040085061937
+      PixelWheels_Ferrari_Yellow_10: 7337753200525077848
+      PixelWheels_Ferrari_Yellow_11: 3933572147697592419
+      PixelWheels_Ferrari_Yellow_12: 8968311826527005633
+      PixelWheels_Ferrari_Yellow_13: 456893661359002419
+      PixelWheels_Ferrari_Yellow_14: -8304810917613364094
+      PixelWheels_Ferrari_Yellow_15: -6079948425325384001
+      PixelWheels_Ferrari_Yellow_16: 9208220941498525881
+      PixelWheels_Ferrari_Yellow_17: 4015810763416472404
+      PixelWheels_Ferrari_Yellow_18: 17286647448729161
+      PixelWheels_Ferrari_Yellow_19: -4146944929050692318
+      PixelWheels_Ferrari_Yellow_2: -44886167453837690
+      PixelWheels_Ferrari_Yellow_20: 7860831550033988921
+      PixelWheels_Ferrari_Yellow_21: -1743350475990395316
+      PixelWheels_Ferrari_Yellow_22: -8673781254600678025
+      PixelWheels_Ferrari_Yellow_23: -988957446898078845
+      PixelWheels_Ferrari_Yellow_24: -5583754714498649323
+      PixelWheels_Ferrari_Yellow_25: 5983133849804798423
+      PixelWheels_Ferrari_Yellow_26: 2207778844361993957
+      PixelWheels_Ferrari_Yellow_27: 8913348231625134202
+      PixelWheels_Ferrari_Yellow_28: 4313236064618982430
+      PixelWheels_Ferrari_Yellow_29: -6397485138507261265
+      PixelWheels_Ferrari_Yellow_3: 6685435655635818737
+      PixelWheels_Ferrari_Yellow_30: 7269756352694222789
+      PixelWheels_Ferrari_Yellow_31: 5465283499145990794
+      PixelWheels_Ferrari_Yellow_32: -363052516428852862
+      PixelWheels_Ferrari_Yellow_33: 7635595525074575787
+      PixelWheels_Ferrari_Yellow_34: -2582042646792137435
+      PixelWheels_Ferrari_Yellow_35: -5391693867757979471
+      PixelWheels_Ferrari_Yellow_36: -2310515336564332282
+      PixelWheels_Ferrari_Yellow_37: 174999759074279730
+      PixelWheels_Ferrari_Yellow_38: -2529681329866922108
+      PixelWheels_Ferrari_Yellow_39: -8817822749670190266
+      PixelWheels_Ferrari_Yellow_4: -3839370703798068113
+      PixelWheels_Ferrari_Yellow_40: -3673175827030073212
+      PixelWheels_Ferrari_Yellow_41: 3794875700430418342
+      PixelWheels_Ferrari_Yellow_42: -457693329775129241
+      PixelWheels_Ferrari_Yellow_43: -4669305349273824250
+      PixelWheels_Ferrari_Yellow_44: -2109118315472205938
+      PixelWheels_Ferrari_Yellow_45: 3338328593194626601
+      PixelWheels_Ferrari_Yellow_46: 6296315778546716978
+      PixelWheels_Ferrari_Yellow_47: -5084394859588738121
+      PixelWheels_Ferrari_Yellow_48: -3834615140124522012
+      PixelWheels_Ferrari_Yellow_49: 6856854087242718943
+      PixelWheels_Ferrari_Yellow_5: 2423181891072381631
+      PixelWheels_Ferrari_Yellow_50: 1488483146441019015
+      PixelWheels_Ferrari_Yellow_51: -4572838807066374431
+      PixelWheels_Ferrari_Yellow_52: -7486068028469098171
+      PixelWheels_Ferrari_Yellow_53: 4037601994841725789
+      PixelWheels_Ferrari_Yellow_54: -7751540113554561428
+      PixelWheels_Ferrari_Yellow_55: -5052912710996488712
+      PixelWheels_Ferrari_Yellow_56: -5022012841437966818
+      PixelWheels_Ferrari_Yellow_57: -3036815503832204484
+      PixelWheels_Ferrari_Yellow_58: -7394522207553399751
+      PixelWheels_Ferrari_Yellow_59: -5732103605786820992
+      PixelWheels_Ferrari_Yellow_6: -7992918772674563566
+      PixelWheels_Ferrari_Yellow_60: -5970915190715009462
+      PixelWheels_Ferrari_Yellow_61: 8719735067552733409
+      PixelWheels_Ferrari_Yellow_62: -4959592059034409482
+      PixelWheels_Ferrari_Yellow_63: 7999667132819074194
+      PixelWheels_Ferrari_Yellow_7: 8417773654755855300
+      PixelWheels_Ferrari_Yellow_8: 8816006154780315850
+      PixelWheels_Ferrari_Yellow_9: 7139843246103374551
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

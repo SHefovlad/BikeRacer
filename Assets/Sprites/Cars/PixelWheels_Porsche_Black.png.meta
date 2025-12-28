@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: a7bc53a89343b854689b8f7939a34ec3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3925883583585439091
+    second: PixelWheels_Porsche_Black_0
+  - first:
+      213: -6815508832575503783
+    second: PixelWheels_Porsche_Black_1
+  - first:
+      213: -8909788000462399700
+    second: PixelWheels_Porsche_Black_2
+  - first:
+      213: 4816533717262842839
+    second: PixelWheels_Porsche_Black_3
+  - first:
+      213: -8765863181332568685
+    second: PixelWheels_Porsche_Black_4
+  - first:
+      213: 3877033255273151033
+    second: PixelWheels_Porsche_Black_5
+  - first:
+      213: 1336077332074553964
+    second: PixelWheels_Porsche_Black_6
+  - first:
+      213: -3974915779606261538
+    second: PixelWheels_Porsche_Black_7
+  - first:
+      213: -1230597901513812963
+    second: PixelWheels_Porsche_Black_8
+  - first:
+      213: 3538733167143144029
+    second: PixelWheels_Porsche_Black_9
+  - first:
+      213: 7712826522340373917
+    second: PixelWheels_Porsche_Black_10
+  - first:
+      213: 6895465352266685423
+    second: PixelWheels_Porsche_Black_11
+  - first:
+      213: 5614510358023619669
+    second: PixelWheels_Porsche_Black_12
+  - first:
+      213: -312534608179186361
+    second: PixelWheels_Porsche_Black_13
+  - first:
+      213: 6305132040137362899
+    second: PixelWheels_Porsche_Black_14
+  - first:
+      213: 392298249841449443
+    second: PixelWheels_Porsche_Black_15
+  - first:
+      213: -8624432048256643943
+    second: PixelWheels_Porsche_Black_16
+  - first:
+      213: -910347545866268180
+    second: PixelWheels_Porsche_Black_17
+  - first:
+      213: -5216646751850170637
+    second: PixelWheels_Porsche_Black_18
+  - first:
+      213: -2928739400060919768
+    second: PixelWheels_Porsche_Black_19
+  - first:
+      213: -168583802596594210
+    second: PixelWheels_Porsche_Black_20
+  - first:
+      213: -4366212914787315117
+    second: PixelWheels_Porsche_Black_21
+  - first:
+      213: 99020226171088656
+    second: PixelWheels_Porsche_Black_22
+  - first:
+      213: -555497932111941126
+    second: PixelWheels_Porsche_Black_23
+  - first:
+      213: -7331875699554094389
+    second: PixelWheels_Porsche_Black_24
+  - first:
+      213: 2909644072318313310
+    second: PixelWheels_Porsche_Black_25
+  - first:
+      213: 2710255783891606105
+    second: PixelWheels_Porsche_Black_26
+  - first:
+      213: 3225527149849478197
+    second: PixelWheels_Porsche_Black_27
+  - first:
+      213: 9153822674702308308
+    second: PixelWheels_Porsche_Black_28
+  - first:
+      213: -8579895196822735856
+    second: PixelWheels_Porsche_Black_29
+  - first:
+      213: -167283043043466001
+    second: PixelWheels_Porsche_Black_30
+  - first:
+      213: -7249942417073562636
+    second: PixelWheels_Porsche_Black_31
+  - first:
+      213: -6385900982046333734
+    second: PixelWheels_Porsche_Black_32
+  - first:
+      213: 6853269013262750131
+    second: PixelWheels_Porsche_Black_33
+  - first:
+      213: 5471190135691998777
+    second: PixelWheels_Porsche_Black_34
+  - first:
+      213: -796973587948767613
+    second: PixelWheels_Porsche_Black_35
+  - first:
+      213: -6440465470238940665
+    second: PixelWheels_Porsche_Black_36
+  - first:
+      213: 3470391436696339192
+    second: PixelWheels_Porsche_Black_37
+  - first:
+      213: 1477212089159888468
+    second: PixelWheels_Porsche_Black_38
+  - first:
+      213: -8354786243861201748
+    second: PixelWheels_Porsche_Black_39
+  - first:
+      213: 154685947214545022
+    second: PixelWheels_Porsche_Black_40
+  - first:
+      213: 3478991857987820104
+    second: PixelWheels_Porsche_Black_41
+  - first:
+      213: -494129646988228938
+    second: PixelWheels_Porsche_Black_42
+  - first:
+      213: -6411692936053525705
+    second: PixelWheels_Porsche_Black_43
+  - first:
+      213: 2775879473061880764
+    second: PixelWheels_Porsche_Black_44
+  - first:
+      213: 5668289900187772212
+    second: PixelWheels_Porsche_Black_45
+  - first:
+      213: -2640700176888927418
+    second: PixelWheels_Porsche_Black_46
+  - first:
+      213: 6387354315145802899
+    second: PixelWheels_Porsche_Black_47
+  - first:
+      213: 2388062980743360645
+    second: PixelWheels_Porsche_Black_48
+  - first:
+      213: -1601977771051884339
+    second: PixelWheels_Porsche_Black_49
+  - first:
+      213: 7221251061172201423
+    second: PixelWheels_Porsche_Black_50
+  - first:
+      213: -2663523531498154588
+    second: PixelWheels_Porsche_Black_51
+  - first:
+      213: -8343837872729243824
+    second: PixelWheels_Porsche_Black_52
+  - first:
+      213: 8050960382129410051
+    second: PixelWheels_Porsche_Black_53
+  - first:
+      213: -3398484554168743593
+    second: PixelWheels_Porsche_Black_54
+  - first:
+      213: 3460801271519084644
+    second: PixelWheels_Porsche_Black_55
+  - first:
+      213: 2289076500871761151
+    second: PixelWheels_Porsche_Black_56
+  - first:
+      213: 7100256608770090618
+    second: PixelWheels_Porsche_Black_57
+  - first:
+      213: 7213252044493332496
+    second: PixelWheels_Porsche_Black_58
+  - first:
+      213: -6262320345788130644
+    second: PixelWheels_Porsche_Black_59
+  - first:
+      213: -7889354635110796284
+    second: PixelWheels_Porsche_Black_60
+  - first:
+      213: -4782162904355887418
+    second: PixelWheels_Porsche_Black_61
+  - first:
+      213: -4931472004803614538
+    second: PixelWheels_Porsche_Black_62
+  - first:
+      213: 5489399318387131809
+    second: PixelWheels_Porsche_Black_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1521
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d823ad25ea57489c0800000000000000
+      internalID: -3925883583585439091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1520
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952cccea3d27a61a0800000000000000
+      internalID: -6815508832575503783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1521
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27966805031a5480800000000000000
+      internalID: -8909788000462399700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1520
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbb42295e3c7d240800000000000000
+      internalID: 4816533717262842839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1421
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3952ffe41e5695680800000000000000
+      internalID: -8765863181332568685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1420
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93abeea443dfdc530800000000000000
+      internalID: 3877033255273151033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1421
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6261c23143ba8210800000000000000
+      internalID: 1336077332074553964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1420
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed05970982346d8c0800000000000000
+      internalID: -3974915779606261538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1321
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d149de28ab90ceee0800000000000000
+      internalID: -1230597901513812963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1320
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ac576011b1c1130800000000000000
+      internalID: 3538733167143144029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1321
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d953f469bd6790b60800000000000000
+      internalID: 7712826522340373917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1320
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb9ed2443d91bf50800000000000000
+      internalID: 6895465352266685423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1224
+        width: 79
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554cfb57c6fbaed40800000000000000
+      internalID: 5614510358023619669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1224
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745b6730e67a9abf0800000000000000
+      internalID: -312534608179186361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1224
+        width: 79
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd425a3f24508750800000000000000
+      internalID: 6305132040137362899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1224
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e99ec30e29b17500800000000000000
+      internalID: 392298249841449443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1128
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c0b2e0fbcdf4880800000000000000
+      internalID: -8624432048256643943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1128
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce11e72fabbcd53f0800000000000000
+      internalID: -910347545866268180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1128
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6764d0b6fba97b0800000000000000
+      internalID: -5216646751850170637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1128
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820ada368070b57d0800000000000000
+      internalID: -2928739400060919768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1024
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd685bbce119adf0800000000000000
+      internalID: -168583802596594210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1023
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3521168bc781863c0800000000000000
+      internalID: -4366212914787315117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_22
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1024
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fa18efe5acf5100800000000000000
+      internalID: 99020226171088656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_23
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1023
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1f00be2997a48f0800000000000000
+      internalID: -555497932111941126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 923
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc272cea5e1ff3a90800000000000000
+      internalID: -7331875699554094389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 922
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53aa592ed1216820800000000000000
+      internalID: 2909644072318313310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 923
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a9e41a643cc9520800000000000000
+      internalID: 2710255783891606105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_27
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 922
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534082c6adf53cc20800000000000000
+      internalID: 3225527149849478197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 821
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d31c8e3939e80f70800000000000000
+      internalID: 9153822674702308308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 820
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014fc47d6c61ee880800000000000000
+      internalID: -8579895196822735856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 821
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4a27a65f0bdadf0800000000000000
+      internalID: -167283043043466001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 820
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb1b4498c7036b90800000000000000
+      internalID: -7249942417073562636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 719
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad46f4a04e8b067a0800000000000000
+      internalID: -6385900982046333734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 718
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1d7bd7bd3bb1f50800000000000000
+      internalID: 6853269013262750131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 719
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936fa88d0729deb40800000000000000
+      internalID: 5471190135691998777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_35
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 718
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386f1fa8eb490f4f0800000000000000
+      internalID: -796973587948767613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 621
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7022d3227cede96a0800000000000000
+      internalID: -6440465470238940665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 620
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2c7dfef9e492030800000000000000
+      internalID: 3470391436696339192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_38
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 621
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ea948819c108410800000000000000
+      internalID: 1477212089159888468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 620
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac35504d26dd0c80800000000000000
+      internalID: -8354786243861201748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 523
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70c777ac0e852200800000000000000
+      internalID: 154685947214545022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_41
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 522
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a17df89acd74030800000000000000
+      internalID: 3478991857987820104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_42
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 523
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6074e34bf7429f0800000000000000
+      internalID: -494129646988228938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_43
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 522
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733f5a9ce371507a0800000000000000
+      internalID: -6411692936053525705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 424
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3e62b6ca7e58620800000000000000
+      internalID: 2775879473061880764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_45
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 423
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43560a0e1afc9ae40800000000000000
+      internalID: 5668289900187772212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_46
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 424
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b693e1e295a5bd0800000000000000
+      internalID: -2640700176888927418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_47
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 423
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394f2d078e074a850800000000000000
+      internalID: 6387354315145802899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 328
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580f774e0aa142120800000000000000
+      internalID: 2388062980743360645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_49
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 328
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0616274b1a4c9e0800000000000000
+      internalID: -1601977771051884339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_50
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 328
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7e41f8499073460800000000000000
+      internalID: 7221251061172201423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_51
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 328
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a59826c573490bd0800000000000000
+      internalID: -2663523531498154588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_52
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 224
+        width: 79
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fb58c89abb43c80800000000000000
+      internalID: -8343837872729243824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_53
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 224
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300119dcfc1cabf60800000000000000
+      internalID: 8050960382129410051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_54
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 224
+        width: 79
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759ce1ecd4826d0d0800000000000000
+      internalID: -3398484554168743593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_55
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 224
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4608d1b9b6c370030800000000000000
+      internalID: 3460801271519084644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_56
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 121
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcc72213fe64cf10800000000000000
+      internalID: 2289076500871761151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_57
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 120
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a766cd354cd298260800000000000000
+      internalID: 7100256608770090618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_58
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 121
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010a26b548e9a1460800000000000000
+      internalID: 7213252044493332496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_59
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 120
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caad89f13d4c719a0800000000000000
+      internalID: -6262320345788130644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_60
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 21
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404b32b42c1638290800000000000000
+      internalID: -7889354635110796284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_61
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 20
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c621dbec2852adb0800000000000000
+      internalID: -4782162904355887418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_62
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 21
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8a5e5f654ef8bb0800000000000000
+      internalID: -4931472004803614538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Porsche_Black_63
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 20
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a58cb298934e2c40800000000000000
+      internalID: 5489399318387131809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PixelWheels_Porsche_Black_0: -3925883583585439091
+      PixelWheels_Porsche_Black_1: -6815508832575503783
+      PixelWheels_Porsche_Black_10: 7712826522340373917
+      PixelWheels_Porsche_Black_11: 6895465352266685423
+      PixelWheels_Porsche_Black_12: 5614510358023619669
+      PixelWheels_Porsche_Black_13: -312534608179186361
+      PixelWheels_Porsche_Black_14: 6305132040137362899
+      PixelWheels_Porsche_Black_15: 392298249841449443
+      PixelWheels_Porsche_Black_16: -8624432048256643943
+      PixelWheels_Porsche_Black_17: -910347545866268180
+      PixelWheels_Porsche_Black_18: -5216646751850170637
+      PixelWheels_Porsche_Black_19: -2928739400060919768
+      PixelWheels_Porsche_Black_2: -8909788000462399700
+      PixelWheels_Porsche_Black_20: -168583802596594210
+      PixelWheels_Porsche_Black_21: -4366212914787315117
+      PixelWheels_Porsche_Black_22: 99020226171088656
+      PixelWheels_Porsche_Black_23: -555497932111941126
+      PixelWheels_Porsche_Black_24: -7331875699554094389
+      PixelWheels_Porsche_Black_25: 2909644072318313310
+      PixelWheels_Porsche_Black_26: 2710255783891606105
+      PixelWheels_Porsche_Black_27: 3225527149849478197
+      PixelWheels_Porsche_Black_28: 9153822674702308308
+      PixelWheels_Porsche_Black_29: -8579895196822735856
+      PixelWheels_Porsche_Black_3: 4816533717262842839
+      PixelWheels_Porsche_Black_30: -167283043043466001
+      PixelWheels_Porsche_Black_31: -7249942417073562636
+      PixelWheels_Porsche_Black_32: -6385900982046333734
+      PixelWheels_Porsche_Black_33: 6853269013262750131
+      PixelWheels_Porsche_Black_34: 5471190135691998777
+      PixelWheels_Porsche_Black_35: -796973587948767613
+      PixelWheels_Porsche_Black_36: -6440465470238940665
+      PixelWheels_Porsche_Black_37: 3470391436696339192
+      PixelWheels_Porsche_Black_38: 1477212089159888468
+      PixelWheels_Porsche_Black_39: -8354786243861201748
+      PixelWheels_Porsche_Black_4: -8765863181332568685
+      PixelWheels_Porsche_Black_40: 154685947214545022
+      PixelWheels_Porsche_Black_41: 3478991857987820104
+      PixelWheels_Porsche_Black_42: -494129646988228938
+      PixelWheels_Porsche_Black_43: -6411692936053525705
+      PixelWheels_Porsche_Black_44: 2775879473061880764
+      PixelWheels_Porsche_Black_45: 5668289900187772212
+      PixelWheels_Porsche_Black_46: -2640700176888927418
+      PixelWheels_Porsche_Black_47: 6387354315145802899
+      PixelWheels_Porsche_Black_48: 2388062980743360645
+      PixelWheels_Porsche_Black_49: -1601977771051884339
+      PixelWheels_Porsche_Black_5: 3877033255273151033
+      PixelWheels_Porsche_Black_50: 7221251061172201423
+      PixelWheels_Porsche_Black_51: -2663523531498154588
+      PixelWheels_Porsche_Black_52: -8343837872729243824
+      PixelWheels_Porsche_Black_53: 8050960382129410051
+      PixelWheels_Porsche_Black_54: -3398484554168743593
+      PixelWheels_Porsche_Black_55: 3460801271519084644
+      PixelWheels_Porsche_Black_56: 2289076500871761151
+      PixelWheels_Porsche_Black_57: 7100256608770090618
+      PixelWheels_Porsche_Black_58: 7213252044493332496
+      PixelWheels_Porsche_Black_59: -6262320345788130644
+      PixelWheels_Porsche_Black_6: 1336077332074553964
+      PixelWheels_Porsche_Black_60: -7889354635110796284
+      PixelWheels_Porsche_Black_61: -4782162904355887418
+      PixelWheels_Porsche_Black_62: -4931472004803614538
+      PixelWheels_Porsche_Black_63: 5489399318387131809
+      PixelWheels_Porsche_Black_7: -3974915779606261538
+      PixelWheels_Porsche_Black_8: -1230597901513812963
+      PixelWheels_Porsche_Black_9: 3538733167143144029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

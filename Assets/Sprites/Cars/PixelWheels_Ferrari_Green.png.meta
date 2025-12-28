@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 58b39e44bedae834094fe8d76f5fe9c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2620020673266507849
+    second: PixelWheels_Ferrari_Green_0
+  - first:
+      213: 7240729055186941893
+    second: PixelWheels_Ferrari_Green_1
+  - first:
+      213: 8764675779623494864
+    second: PixelWheels_Ferrari_Green_2
+  - first:
+      213: -7810510895199632849
+    second: PixelWheels_Ferrari_Green_3
+  - first:
+      213: -1339933736294440639
+    second: PixelWheels_Ferrari_Green_4
+  - first:
+      213: -3008380460306864741
+    second: PixelWheels_Ferrari_Green_5
+  - first:
+      213: 2398487383969382167
+    second: PixelWheels_Ferrari_Green_6
+  - first:
+      213: -1324558680546079000
+    second: PixelWheels_Ferrari_Green_7
+  - first:
+      213: 7230369030750861773
+    second: PixelWheels_Ferrari_Green_8
+  - first:
+      213: 93019145167682669
+    second: PixelWheels_Ferrari_Green_9
+  - first:
+      213: -3706599947264944991
+    second: PixelWheels_Ferrari_Green_10
+  - first:
+      213: 9073147356727888358
+    second: PixelWheels_Ferrari_Green_11
+  - first:
+      213: -161873678863090893
+    second: PixelWheels_Ferrari_Green_12
+  - first:
+      213: 2151359554119660368
+    second: PixelWheels_Ferrari_Green_13
+  - first:
+      213: -4283860385173313285
+    second: PixelWheels_Ferrari_Green_14
+  - first:
+      213: 5913899250129534568
+    second: PixelWheels_Ferrari_Green_15
+  - first:
+      213: 5465536000924490088
+    second: PixelWheels_Ferrari_Green_16
+  - first:
+      213: 4424275566182141022
+    second: PixelWheels_Ferrari_Green_17
+  - first:
+      213: -3657733802536299553
+    second: PixelWheels_Ferrari_Green_18
+  - first:
+      213: -6415638081368473274
+    second: PixelWheels_Ferrari_Green_19
+  - first:
+      213: -4300890327591549295
+    second: PixelWheels_Ferrari_Green_20
+  - first:
+      213: -145195150241549761
+    second: PixelWheels_Ferrari_Green_21
+  - first:
+      213: -1096031462777852948
+    second: PixelWheels_Ferrari_Green_22
+  - first:
+      213: -1847768008106156946
+    second: PixelWheels_Ferrari_Green_23
+  - first:
+      213: -6383379213124109748
+    second: PixelWheels_Ferrari_Green_24
+  - first:
+      213: -5976188181546273457
+    second: PixelWheels_Ferrari_Green_25
+  - first:
+      213: 295862100014973603
+    second: PixelWheels_Ferrari_Green_26
+  - first:
+      213: -5643092998314775760
+    second: PixelWheels_Ferrari_Green_27
+  - first:
+      213: -2007507402948806972
+    second: PixelWheels_Ferrari_Green_28
+  - first:
+      213: -5340658784257466364
+    second: PixelWheels_Ferrari_Green_29
+  - first:
+      213: 836548575311536727
+    second: PixelWheels_Ferrari_Green_30
+  - first:
+      213: -2232778212135610098
+    second: PixelWheels_Ferrari_Green_31
+  - first:
+      213: -320064342914374944
+    second: PixelWheels_Ferrari_Green_32
+  - first:
+      213: -3120617693643830685
+    second: PixelWheels_Ferrari_Green_33
+  - first:
+      213: -5291733763719377528
+    second: PixelWheels_Ferrari_Green_34
+  - first:
+      213: 7877963251988500044
+    second: PixelWheels_Ferrari_Green_35
+  - first:
+      213: -5050263827581329885
+    second: PixelWheels_Ferrari_Green_36
+  - first:
+      213: 3680664533737817487
+    second: PixelWheels_Ferrari_Green_37
+  - first:
+      213: -5599090560596731708
+    second: PixelWheels_Ferrari_Green_38
+  - first:
+      213: 500798812097541411
+    second: PixelWheels_Ferrari_Green_39
+  - first:
+      213: -7529118673563942765
+    second: PixelWheels_Ferrari_Green_40
+  - first:
+      213: 7864625069722397870
+    second: PixelWheels_Ferrari_Green_41
+  - first:
+      213: 150912289898411863
+    second: PixelWheels_Ferrari_Green_42
+  - first:
+      213: 676960270207586890
+    second: PixelWheels_Ferrari_Green_43
+  - first:
+      213: 4503166760219361810
+    second: PixelWheels_Ferrari_Green_44
+  - first:
+      213: 1600409541155970006
+    second: PixelWheels_Ferrari_Green_45
+  - first:
+      213: 8651478163410748163
+    second: PixelWheels_Ferrari_Green_46
+  - first:
+      213: -3452395859174765215
+    second: PixelWheels_Ferrari_Green_47
+  - first:
+      213: -544598379058203131
+    second: PixelWheels_Ferrari_Green_48
+  - first:
+      213: -2242892888158354034
+    second: PixelWheels_Ferrari_Green_49
+  - first:
+      213: -6899230542458266350
+    second: PixelWheels_Ferrari_Green_50
+  - first:
+      213: 8218118603258912888
+    second: PixelWheels_Ferrari_Green_51
+  - first:
+      213: -8328260225891839133
+    second: PixelWheels_Ferrari_Green_52
+  - first:
+      213: -7447096087680043810
+    second: PixelWheels_Ferrari_Green_53
+  - first:
+      213: -1536651297060843004
+    second: PixelWheels_Ferrari_Green_54
+  - first:
+      213: 2675506517805219167
+    second: PixelWheels_Ferrari_Green_55
+  - first:
+      213: -6051521833433867034
+    second: PixelWheels_Ferrari_Green_56
+  - first:
+      213: 2360607313453866744
+    second: PixelWheels_Ferrari_Green_57
+  - first:
+      213: 6660932265121341012
+    second: PixelWheels_Ferrari_Green_58
+  - first:
+      213: -6167265250407698541
+    second: PixelWheels_Ferrari_Green_59
+  - first:
+      213: -8242814168575439870
+    second: PixelWheels_Ferrari_Green_60
+  - first:
+      213: -1621348565907418022
+    second: PixelWheels_Ferrari_Green_61
+  - first:
+      213: 1539649169005723658
+    second: PixelWheels_Ferrari_Green_62
+  - first:
+      213: 86389802764168473
+    second: PixelWheels_Ferrari_Green_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1522
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940ea3ebbee2c5420800000000000000
+      internalID: 2620020673266507849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1521
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7744176bc3c7460800000000000000
+      internalID: 7240729055186941893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1522
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4adef2f2262a970800000000000000
+      internalID: 8764675779623494864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1521
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22ce4109bd7b9390800000000000000
+      internalID: -7810510895199632849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1420
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141ab99bd59976de0800000000000000
+      internalID: -1339933736294440639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1419
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95ee2219e51046d0800000000000000
+      internalID: -3008380460306864741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1420
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f30c76193294120800000000000000
+      internalID: 2398487383969382167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1419
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee04e9d5e83e9de0800000000000000
+      internalID: -1324558680546079000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1322
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9f3e8435e675460800000000000000
+      internalID: 7230369030750861773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1322
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cb7017b687a4100800000000000000
+      internalID: 93019145167682669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1322
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a49ac28cf28f8cc0800000000000000
+      internalID: -3706599947264944991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1322
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e94a88037b4aed70800000000000000
+      internalID: 9073147356727888358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1224
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b31e82fb8e0cdf0800000000000000
+      internalID: -161873678863090893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1224
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053f177bd1a2bdd10800000000000000
+      internalID: 2151359554119660368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1224
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf860623dabac84c0800000000000000
+      internalID: -4283860385173313285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_15
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1224
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e7b69e804621250800000000000000
+      internalID: 5913899250129534568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1127
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8699632090c79db40800000000000000
+      internalID: 5465536000924490088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1127
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c0ab6cf2f266d30800000000000000
+      internalID: 4424275566182141022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1127
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd392e07c7e1d3dc0800000000000000
+      internalID: -3657733802536299553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1127
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6414090182317f6a0800000000000000
+      internalID: -6415638081368473274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1024
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1960efdb80b2054c0800000000000000
+      internalID: -4300890327591549295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1024
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f323eb6b7c92cfdf0800000000000000
+      internalID: -145195150241549761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1024
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb697e013d1ac0f0800000000000000
+      internalID: -1096031462777852948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_23
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1024
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c508959c86b56e0800000000000000
+      internalID: -1847768008106156946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 921
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aff1f1d6ea967a0800000000000000
+      internalID: -6383379213124109748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 920
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45fb081380501da0800000000000000
+      internalID: -5976188181546273457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 921
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2c4ed230d1b1400800000000000000
+      internalID: 295862100014973603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_27
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 920
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b24f001d4bfa1b0800000000000000
+      internalID: -5643092998314775760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 820
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6f44b37a6e324e0800000000000000
+      internalID: -2007507402948806972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 819
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400a3c9b12b22e5b0800000000000000
+      internalID: -5340658784257466364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 820
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752adcc3f740c9b00800000000000000
+      internalID: 836548575311536727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 819
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09dc6bbb049301e0800000000000000
+      internalID: -2232778212135610098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 722
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2e1570d27ee8bf0800000000000000
+      internalID: -320064342914374944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_33
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 721
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a8f8acdb651b4d0800000000000000
+      internalID: -3120617693643830685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_34
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 722
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dc09fbd2cff86b0800000000000000
+      internalID: -5291733763719377528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_35
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 721
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e0b54a6d5245d60800000000000000
+      internalID: 7877963251988500044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 620
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e92076ecbd9e9b0800000000000000
+      internalID: -5050263827581329885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_37
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 619
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8542d674e8541330800000000000000
+      internalID: 3680664533737817487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_38
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 620
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c89366ecc80c42b0800000000000000
+      internalID: -5599090560596731708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 619
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325f203cdd133f600800000000000000
+      internalID: 500798812097541411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 522
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39006761572338790800000000000000
+      internalID: -7529118673563942765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_41
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 521
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac6f6415d2c42d60800000000000000
+      internalID: 7864625069722397870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_42
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 522
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757b2a79de5281200800000000000000
+      internalID: 150912289898411863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_43
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 521
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4296c077cb056900800000000000000
+      internalID: 676960270207586890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_44
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 424
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212c8334f467e7e30800000000000000
+      internalID: 4503166760219361810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 424
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db5fb39ffbc53610800000000000000
+      internalID: 1600409541155970006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 424
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30385285d89301870800000000000000
+      internalID: 8651478163410748163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_47
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 424
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dcbd5f140a610d0800000000000000
+      internalID: -3452395859174765215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 327
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5067bfed8a23178f0800000000000000
+      internalID: -544598379058203131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 327
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8542143dc4afd0e0800000000000000
+      internalID: -2242892888158354034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_50
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 327
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ddf3510620140a0800000000000000
+      internalID: -6899230542458266350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_51
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 327
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870e645045f9c0270800000000000000
+      internalID: 8218118603258912888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 224
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363d3b613731c6c80800000000000000
+      internalID: -8328260225891839133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_53
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 224
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed431ad809996a890800000000000000
+      internalID: -7447096087680043810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_54
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 224
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4029b0f69c7bcaae0800000000000000
+      internalID: -1536651297060843004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_55
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 224
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5db504a00f412520800000000000000
+      internalID: 2675506517805219167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 122
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec57af64fca40ca0800000000000000
+      internalID: -6051521833433867034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 122
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe5b9438df82c020800000000000000
+      internalID: 2360607313453866744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_58
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 122
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ede7f9a92607c50800000000000000
+      internalID: 6660932265121341012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_59
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 122
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fa6d92ee8796aa0800000000000000
+      internalID: -6167265250407698541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 20
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c018c9f24ab9d80800000000000000
+      internalID: -8242814168575439870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_61
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 19
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54dfffc110df79e0800000000000000
+      internalID: -1621348565907418022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 20
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00cf4503ceed5510800000000000000
+      internalID: 1539649169005723658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Ferrari_Green_63
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 19
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d69f1611be23100800000000000000
+      internalID: 86389802764168473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PixelWheels_Ferrari_Green_0: 2620020673266507849
+      PixelWheels_Ferrari_Green_1: 7240729055186941893
+      PixelWheels_Ferrari_Green_10: -3706599947264944991
+      PixelWheels_Ferrari_Green_11: 9073147356727888358
+      PixelWheels_Ferrari_Green_12: -161873678863090893
+      PixelWheels_Ferrari_Green_13: 2151359554119660368
+      PixelWheels_Ferrari_Green_14: -4283860385173313285
+      PixelWheels_Ferrari_Green_15: 5913899250129534568
+      PixelWheels_Ferrari_Green_16: 5465536000924490088
+      PixelWheels_Ferrari_Green_17: 4424275566182141022
+      PixelWheels_Ferrari_Green_18: -3657733802536299553
+      PixelWheels_Ferrari_Green_19: -6415638081368473274
+      PixelWheels_Ferrari_Green_2: 8764675779623494864
+      PixelWheels_Ferrari_Green_20: -4300890327591549295
+      PixelWheels_Ferrari_Green_21: -145195150241549761
+      PixelWheels_Ferrari_Green_22: -1096031462777852948
+      PixelWheels_Ferrari_Green_23: -1847768008106156946
+      PixelWheels_Ferrari_Green_24: -6383379213124109748
+      PixelWheels_Ferrari_Green_25: -5976188181546273457
+      PixelWheels_Ferrari_Green_26: 295862100014973603
+      PixelWheels_Ferrari_Green_27: -5643092998314775760
+      PixelWheels_Ferrari_Green_28: -2007507402948806972
+      PixelWheels_Ferrari_Green_29: -5340658784257466364
+      PixelWheels_Ferrari_Green_3: -7810510895199632849
+      PixelWheels_Ferrari_Green_30: 836548575311536727
+      PixelWheels_Ferrari_Green_31: -2232778212135610098
+      PixelWheels_Ferrari_Green_32: -320064342914374944
+      PixelWheels_Ferrari_Green_33: -3120617693643830685
+      PixelWheels_Ferrari_Green_34: -5291733763719377528
+      PixelWheels_Ferrari_Green_35: 7877963251988500044
+      PixelWheels_Ferrari_Green_36: -5050263827581329885
+      PixelWheels_Ferrari_Green_37: 3680664533737817487
+      PixelWheels_Ferrari_Green_38: -5599090560596731708
+      PixelWheels_Ferrari_Green_39: 500798812097541411
+      PixelWheels_Ferrari_Green_4: -1339933736294440639
+      PixelWheels_Ferrari_Green_40: -7529118673563942765
+      PixelWheels_Ferrari_Green_41: 7864625069722397870
+      PixelWheels_Ferrari_Green_42: 150912289898411863
+      PixelWheels_Ferrari_Green_43: 676960270207586890
+      PixelWheels_Ferrari_Green_44: 4503166760219361810
+      PixelWheels_Ferrari_Green_45: 1600409541155970006
+      PixelWheels_Ferrari_Green_46: 8651478163410748163
+      PixelWheels_Ferrari_Green_47: -3452395859174765215
+      PixelWheels_Ferrari_Green_48: -544598379058203131
+      PixelWheels_Ferrari_Green_49: -2242892888158354034
+      PixelWheels_Ferrari_Green_5: -3008380460306864741
+      PixelWheels_Ferrari_Green_50: -6899230542458266350
+      PixelWheels_Ferrari_Green_51: 8218118603258912888
+      PixelWheels_Ferrari_Green_52: -8328260225891839133
+      PixelWheels_Ferrari_Green_53: -7447096087680043810
+      PixelWheels_Ferrari_Green_54: -1536651297060843004
+      PixelWheels_Ferrari_Green_55: 2675506517805219167
+      PixelWheels_Ferrari_Green_56: -6051521833433867034
+      PixelWheels_Ferrari_Green_57: 2360607313453866744
+      PixelWheels_Ferrari_Green_58: 6660932265121341012
+      PixelWheels_Ferrari_Green_59: -6167265250407698541
+      PixelWheels_Ferrari_Green_6: 2398487383969382167
+      PixelWheels_Ferrari_Green_60: -8242814168575439870
+      PixelWheels_Ferrari_Green_61: -1621348565907418022
+      PixelWheels_Ferrari_Green_62: 1539649169005723658
+      PixelWheels_Ferrari_Green_63: 86389802764168473
+      PixelWheels_Ferrari_Green_7: -1324558680546079000
+      PixelWheels_Ferrari_Green_8: 7230369030750861773
+      PixelWheels_Ferrari_Green_9: 93019145167682669
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

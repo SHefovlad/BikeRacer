@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 7500684b74d73ae46ac1006f9756b2e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8436092524099920435
+    second: PixelWheels_Dodge_Red_0
+  - first:
+      213: -2315825219966526942
+    second: PixelWheels_Dodge_Red_1
+  - first:
+      213: 7299122029809679361
+    second: PixelWheels_Dodge_Red_2
+  - first:
+      213: 2549537706894272815
+    second: PixelWheels_Dodge_Red_3
+  - first:
+      213: -319668364186295406
+    second: PixelWheels_Dodge_Red_4
+  - first:
+      213: 6269489189141320330
+    second: PixelWheels_Dodge_Red_5
+  - first:
+      213: -8287332370528444935
+    second: PixelWheels_Dodge_Red_6
+  - first:
+      213: -6647322864584265903
+    second: PixelWheels_Dodge_Red_7
+  - first:
+      213: 153424716516652318
+    second: PixelWheels_Dodge_Red_8
+  - first:
+      213: -7307510169419040150
+    second: PixelWheels_Dodge_Red_9
+  - first:
+      213: 1362207183847481836
+    second: PixelWheels_Dodge_Red_10
+  - first:
+      213: -174445107349747200
+    second: PixelWheels_Dodge_Red_11
+  - first:
+      213: -8569208667962816647
+    second: PixelWheels_Dodge_Red_12
+  - first:
+      213: -1122963666737487028
+    second: PixelWheels_Dodge_Red_13
+  - first:
+      213: -7460887898377597668
+    second: PixelWheels_Dodge_Red_14
+  - first:
+      213: -6061445909167677607
+    second: PixelWheels_Dodge_Red_15
+  - first:
+      213: -5640020999758621000
+    second: PixelWheels_Dodge_Red_16
+  - first:
+      213: 224775690956945933
+    second: PixelWheels_Dodge_Red_17
+  - first:
+      213: -967774267035942328
+    second: PixelWheels_Dodge_Red_18
+  - first:
+      213: 7380194128275369117
+    second: PixelWheels_Dodge_Red_19
+  - first:
+      213: -3125952912168711258
+    second: PixelWheels_Dodge_Red_20
+  - first:
+      213: 7858211611660765047
+    second: PixelWheels_Dodge_Red_21
+  - first:
+      213: 7897428906959088687
+    second: PixelWheels_Dodge_Red_22
+  - first:
+      213: 5300622818562953329
+    second: PixelWheels_Dodge_Red_23
+  - first:
+      213: -3481767433917369401
+    second: PixelWheels_Dodge_Red_24
+  - first:
+      213: -6690119071910834765
+    second: PixelWheels_Dodge_Red_25
+  - first:
+      213: -3624428238164845033
+    second: PixelWheels_Dodge_Red_26
+  - first:
+      213: 584437366769032669
+    second: PixelWheels_Dodge_Red_27
+  - first:
+      213: -8614294037177590284
+    second: PixelWheels_Dodge_Red_28
+  - first:
+      213: 7741820075393547409
+    second: PixelWheels_Dodge_Red_29
+  - first:
+      213: -8864445994995082691
+    second: PixelWheels_Dodge_Red_30
+  - first:
+      213: -6424953805639724697
+    second: PixelWheels_Dodge_Red_31
+  - first:
+      213: 1888684613830264416
+    second: PixelWheels_Dodge_Red_32
+  - first:
+      213: 5104438397684416856
+    second: PixelWheels_Dodge_Red_33
+  - first:
+      213: -5956234361547633827
+    second: PixelWheels_Dodge_Red_34
+  - first:
+      213: 1909853888510687400
+    second: PixelWheels_Dodge_Red_35
+  - first:
+      213: -8001959803047354241
+    second: PixelWheels_Dodge_Red_36
+  - first:
+      213: 8042841693403437045
+    second: PixelWheels_Dodge_Red_37
+  - first:
+      213: -7627522325183541128
+    second: PixelWheels_Dodge_Red_38
+  - first:
+      213: 4211851549221684590
+    second: PixelWheels_Dodge_Red_39
+  - first:
+      213: -6433298488179554650
+    second: PixelWheels_Dodge_Red_40
+  - first:
+      213: -394939088083109035
+    second: PixelWheels_Dodge_Red_41
+  - first:
+      213: -7111948333111805631
+    second: PixelWheels_Dodge_Red_42
+  - first:
+      213: -2558882307242181902
+    second: PixelWheels_Dodge_Red_43
+  - first:
+      213: -1821940290000330743
+    second: PixelWheels_Dodge_Red_44
+  - first:
+      213: -3435019035841175007
+    second: PixelWheels_Dodge_Red_45
+  - first:
+      213: -2294603105868854797
+    second: PixelWheels_Dodge_Red_46
+  - first:
+      213: -5208378456212417475
+    second: PixelWheels_Dodge_Red_47
+  - first:
+      213: 4235904850432112588
+    second: PixelWheels_Dodge_Red_48
+  - first:
+      213: 3634027876745876348
+    second: PixelWheels_Dodge_Red_49
+  - first:
+      213: -1807057881533851335
+    second: PixelWheels_Dodge_Red_50
+  - first:
+      213: -8100455456526466640
+    second: PixelWheels_Dodge_Red_51
+  - first:
+      213: -5417858327327904632
+    second: PixelWheels_Dodge_Red_52
+  - first:
+      213: 6366744468473976755
+    second: PixelWheels_Dodge_Red_53
+  - first:
+      213: -8771446155394179684
+    second: PixelWheels_Dodge_Red_54
+  - first:
+      213: -6956064437343122179
+    second: PixelWheels_Dodge_Red_55
+  - first:
+      213: 1451067107906132348
+    second: PixelWheels_Dodge_Red_56
+  - first:
+      213: 4075461939034470791
+    second: PixelWheels_Dodge_Red_57
+  - first:
+      213: 3141911939781002773
+    second: PixelWheels_Dodge_Red_58
+  - first:
+      213: 4828060531663001246
+    second: PixelWheels_Dodge_Red_59
+  - first:
+      213: -8053057810966817268
+    second: PixelWheels_Dodge_Red_60
+  - first:
+      213: 2637906675317557936
+    second: PixelWheels_Dodge_Red_61
+  - first:
+      213: -6663726688574902099
+    second: PixelWheels_Dodge_Red_62
+  - first:
+      213: -8886250732006541912
+    second: PixelWheels_Dodge_Red_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1520
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332ed4f4475031570800000000000000
+      internalID: 8436092524099920435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1519
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a11027b398cdfd0800000000000000
+      internalID: -2315825219966526942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1520
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cb80f40d0bb4560800000000000000
+      internalID: 7299122029809679361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1519
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29a5e05907c16320800000000000000
+      internalID: 2549537706894272815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1420
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293eeb2015f409bf0800000000000000
+      internalID: -319668364186295406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1419
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a829be94333b10750800000000000000
+      internalID: 6269489189141320330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1420
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd5e0ffd1b7dfc80800000000000000
+      internalID: -8287332370528444935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_7
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1419
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f6f1dd217ffb3a0800000000000000
+      internalID: -6647322864584265903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1321
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e157dbf77f2112200800000000000000
+      internalID: 153424716516652318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1320
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a393fb732869a90800000000000000
+      internalID: -7307510169419040150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1321
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1e6b7673887e210800000000000000
+      internalID: 1362207183847481836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1320
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a0d9f591f349df0800000000000000
+      internalID: -174445107349747200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1224
+        width: 90
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977c0eb3e1e041980800000000000000
+      internalID: -8569208667962816647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1224
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43217cae7e6a60f0800000000000000
+      internalID: -1122963666737487028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1224
+        width: 90
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d41346cf9957890800000000000000
+      internalID: -7460887898377597668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1224
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fd0de7f0b61eba0800000000000000
+      internalID: -6061445909167677607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1129
+        width: 78
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6d4a768ce9ab1b0800000000000000
+      internalID: -5640020999758621000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1129
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ab1adcc409e1300800000000000000
+      internalID: 224775690956945933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1129
+        width: 78
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8420f8e7e66c192f0800000000000000
+      internalID: -967774267035942328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_19
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1129
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ce64d2577bb6660800000000000000
+      internalID: 7380194128275369117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1025
+        width: 87
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab069d63626e94d0800000000000000
+      internalID: -3125952912168711258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1025
+        width: 87
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777c3e283d9fd0d60800000000000000
+      internalID: 7858211611660765047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1025
+        width: 87
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ca23e9fbd499d60800000000000000
+      internalID: 7897428906959088687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_23
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1025
+        width: 87
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17056cc9e589f8940800000000000000
+      internalID: 5300622818562953329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 922
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3f4de47f64eafc0800000000000000
+      internalID: -3481767433917369401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 921
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd40bd562ce723a0800000000000000
+      internalID: -6690119071910834765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 922
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e1a4e68b173bdc0800000000000000
+      internalID: -3624428238164845033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_27
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 921
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd9bb740b65c1800800000000000000
+      internalID: 584437366769032669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 820
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd9343b631e37880800000000000000
+      internalID: -8614294037177590284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_29
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 819
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cf1d43758707b60800000000000000
+      internalID: 7741820075393547409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 820
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a1fa955592bf480800000000000000
+      internalID: -8864445994995082691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_31
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 819
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761dc8cfd8af5d6a0800000000000000
+      internalID: -6424953805639724697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 723
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066491c46a4f53a10800000000000000
+      internalID: 1888684613830264416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_33
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 722
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85108df9dab96d640800000000000000
+      internalID: 5104438397684416856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_34
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 723
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b4af8d764375da0800000000000000
+      internalID: -5956234361547633827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_35
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 722
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8f3952ef9218a10800000000000000
+      internalID: 1909853888510687400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 619
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70686094f353f090800000000000000
+      internalID: -8001959803047354241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 620
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7530848e9ed9f60800000000000000
+      internalID: 8042841693403437045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_38
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 619
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870d21b8bd8952690800000000000000
+      internalID: -7627522325183541128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_39
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 620
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65890e2ba0837a30800000000000000
+      internalID: 4211851549221684590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 521
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6000e2c1558b6a0800000000000000
+      internalID: -6433298488179554650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 522
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bb3eaedf4e48af0800000000000000
+      internalID: -394939088083109035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_42
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 521
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14970f7fba84d4d90800000000000000
+      internalID: -7111948333111805631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_43
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 522
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa3cce59160d7cd0800000000000000
+      internalID: -2558882307242181902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_44
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 425
+        width: 87
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900ee8495fa27b6e0800000000000000
+      internalID: -1821940290000330743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_45
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 425
+        width: 87
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1226bfbe26c5450d0800000000000000
+      internalID: -3435019035841175007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 425
+        width: 87
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9cd2ee1aee720e0800000000000000
+      internalID: -2294603105868854797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_47
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 425
+        width: 87
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3459a5a36f18b7b0800000000000000
+      internalID: -5208378456212417475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 329
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc73c58c405f8ca30800000000000000
+      internalID: 4235904850432112588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 329
+        width: 78
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c731e499919ae6230800000000000000
+      internalID: 3634027876745876348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_50
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 329
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939da925e6a0ce6e0800000000000000
+      internalID: -1807057881533851335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_51
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 329
+        width: 78
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b18dda2ea6659f80800000000000000
+      internalID: -8100455456526466640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 224
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c6a3c6e86efc4b0800000000000000
+      internalID: -5417858327327904632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_53
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 224
+        width: 90
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b713139c583b5850800000000000000
+      internalID: 6366744468473976755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_54
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 224
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d934dd130954680800000000000000
+      internalID: -8771446155394179684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_55
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 224
+        width: 90
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc8f61cf38177f90800000000000000
+      internalID: -6956064437343122179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 120
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c799ff7b8d9332410800000000000000
+      internalID: 1451067107906132348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_57
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 121
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78936c37a03fe8830800000000000000
+      internalID: 4075461939034470791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 120
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516843e33405a9b20800000000000000
+      internalID: 3141911939781002773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_59
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 121
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e965bdf2977b00340800000000000000
+      internalID: 4828060531663001246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 19
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0653ad769acd3090800000000000000
+      internalID: -8053057810966817268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_61
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 20
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba4fec152abb9420800000000000000
+      internalID: 2637906675317557936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_62
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 19
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0f337f1efa583a0800000000000000
+      internalID: -6663726688574902099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelWheels_Dodge_Red_63
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 20
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5f1b56a02bda480800000000000000
+      internalID: -8886250732006541912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PixelWheels_Dodge_Red_0: 8436092524099920435
+      PixelWheels_Dodge_Red_1: -2315825219966526942
+      PixelWheels_Dodge_Red_10: 1362207183847481836
+      PixelWheels_Dodge_Red_11: -174445107349747200
+      PixelWheels_Dodge_Red_12: -8569208667962816647
+      PixelWheels_Dodge_Red_13: -1122963666737487028
+      PixelWheels_Dodge_Red_14: -7460887898377597668
+      PixelWheels_Dodge_Red_15: -6061445909167677607
+      PixelWheels_Dodge_Red_16: -5640020999758621000
+      PixelWheels_Dodge_Red_17: 224775690956945933
+      PixelWheels_Dodge_Red_18: -967774267035942328
+      PixelWheels_Dodge_Red_19: 7380194128275369117
+      PixelWheels_Dodge_Red_2: 7299122029809679361
+      PixelWheels_Dodge_Red_20: -3125952912168711258
+      PixelWheels_Dodge_Red_21: 7858211611660765047
+      PixelWheels_Dodge_Red_22: 7897428906959088687
+      PixelWheels_Dodge_Red_23: 5300622818562953329
+      PixelWheels_Dodge_Red_24: -3481767433917369401
+      PixelWheels_Dodge_Red_25: -6690119071910834765
+      PixelWheels_Dodge_Red_26: -3624428238164845033
+      PixelWheels_Dodge_Red_27: 584437366769032669
+      PixelWheels_Dodge_Red_28: -8614294037177590284
+      PixelWheels_Dodge_Red_29: 7741820075393547409
+      PixelWheels_Dodge_Red_3: 2549537706894272815
+      PixelWheels_Dodge_Red_30: -8864445994995082691
+      PixelWheels_Dodge_Red_31: -6424953805639724697
+      PixelWheels_Dodge_Red_32: 1888684613830264416
+      PixelWheels_Dodge_Red_33: 5104438397684416856
+      PixelWheels_Dodge_Red_34: -5956234361547633827
+      PixelWheels_Dodge_Red_35: 1909853888510687400
+      PixelWheels_Dodge_Red_36: -8001959803047354241
+      PixelWheels_Dodge_Red_37: 8042841693403437045
+      PixelWheels_Dodge_Red_38: -7627522325183541128
+      PixelWheels_Dodge_Red_39: 4211851549221684590
+      PixelWheels_Dodge_Red_4: -319668364186295406
+      PixelWheels_Dodge_Red_40: -6433298488179554650
+      PixelWheels_Dodge_Red_41: -394939088083109035
+      PixelWheels_Dodge_Red_42: -7111948333111805631
+      PixelWheels_Dodge_Red_43: -2558882307242181902
+      PixelWheels_Dodge_Red_44: -1821940290000330743
+      PixelWheels_Dodge_Red_45: -3435019035841175007
+      PixelWheels_Dodge_Red_46: -2294603105868854797
+      PixelWheels_Dodge_Red_47: -5208378456212417475
+      PixelWheels_Dodge_Red_48: 4235904850432112588
+      PixelWheels_Dodge_Red_49: 3634027876745876348
+      PixelWheels_Dodge_Red_5: 6269489189141320330
+      PixelWheels_Dodge_Red_50: -1807057881533851335
+      PixelWheels_Dodge_Red_51: -8100455456526466640
+      PixelWheels_Dodge_Red_52: -5417858327327904632
+      PixelWheels_Dodge_Red_53: 6366744468473976755
+      PixelWheels_Dodge_Red_54: -8771446155394179684
+      PixelWheels_Dodge_Red_55: -6956064437343122179
+      PixelWheels_Dodge_Red_56: 1451067107906132348
+      PixelWheels_Dodge_Red_57: 4075461939034470791
+      PixelWheels_Dodge_Red_58: 3141911939781002773
+      PixelWheels_Dodge_Red_59: 4828060531663001246
+      PixelWheels_Dodge_Red_6: -8287332370528444935
+      PixelWheels_Dodge_Red_60: -8053057810966817268
+      PixelWheels_Dodge_Red_61: 2637906675317557936
+      PixelWheels_Dodge_Red_62: -6663726688574902099
+      PixelWheels_Dodge_Red_63: -8886250732006541912
+      PixelWheels_Dodge_Red_7: -6647322864584265903
+      PixelWheels_Dodge_Red_8: 153424716516652318
+      PixelWheels_Dodge_Red_9: -7307510169419040150
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
