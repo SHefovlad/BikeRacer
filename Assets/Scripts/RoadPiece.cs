@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class RoadPiece : MonoBehaviour
 {
-    private float speed;
+    public float speed;
     private float despawnX;
 
     public void Init(float speed, float despawnX)

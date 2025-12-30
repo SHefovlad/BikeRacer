@@ -3,10 +3,10 @@ using UnityEngine;
 public class RoadSpawner : MonoBehaviour
 {
     [SerializeField] private GameObject roadPrefab;
-    [SerializeField] private float spawnDelay = 0.2f;
+    public float spawnDelay = 0.2f;
     [SerializeField] private float spawnX = 10f;
     [SerializeField] private float y = 0f;
-    [SerializeField] private float speed = 5f;
+    public float speed = 5f;
     [SerializeField] private float despawnX = -10f;
     [SerializeField] private int startCount = 20; // сколько кусков сразу
 

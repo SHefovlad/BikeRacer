@@ -22,6 +22,10 @@ public class GameManager : MonoBehaviour
     {
         Instance = this;
     }
+    private void Start()
+    {
+        SoundManager.Instance.PlaySound(0, 0.5f, true);
+    }
 
     public void Restart()
     {

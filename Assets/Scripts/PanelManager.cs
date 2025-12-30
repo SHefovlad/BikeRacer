@@ -46,11 +46,17 @@ public class PanelManager : MonoBehaviour
     public void ShowPanel(string label, string text, KeyCode button, float time)
     {
         StartCoroutine(Show());
-        timerCoroutine = StartCoroutine(Timer(time));
+
+        timerImage.GetComponent<RectTransform>().sizeDelta = new Vector2(
+            originalTimerWidth,
+            timerImage.GetComponent<RectTransform>().sizeDelta.y
+        );
+
+        if (time != -1) timerCoroutine = StartCoroutine(Timer(time));
         currentButton = button;
         labelText.text = label;
         textText.text = text;
-        buttonText.text = button.ToString();
+        buttonText.text = button != KeyCode.None ? button.ToString() : "";
         currentButton = button;
     }
     public void HidePanel()

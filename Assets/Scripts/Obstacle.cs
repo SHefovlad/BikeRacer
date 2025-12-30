@@ -9,6 +9,8 @@ public class Obstacle : MonoBehaviour
 
     private float speed;
     private float despawnX;
+
+    public bool isSoup = false;
     public void Init(float speed, float despawnX)
     {
         this.speed = speed;
@@ -20,6 +22,9 @@ public class Obstacle : MonoBehaviour
 
         transform.Translate(Vector2.left * speed * Time.deltaTime);
         if (transform.position.x <= despawnX)
+        {
             Destroy(gameObject);
+            if (!ObstacleManager.Instance.soup) GameManager.Instance.isGameOver = true;
+        }
     }
 }

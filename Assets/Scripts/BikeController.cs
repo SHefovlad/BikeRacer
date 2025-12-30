@@ -36,8 +36,7 @@ public class BikeController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        Debug.Log("Collision detected with " + collision.gameObject.name);
-        if (collision.gameObject.CompareTag("Car"))
+        if (collision.gameObject.CompareTag("Car") || collision.gameObject.CompareTag("Obstacle"))
         {
             GameManager.Instance.isGameOver = true;
         }
