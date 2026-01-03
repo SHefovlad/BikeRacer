@@ -2309,7 +2309,7 @@ GameObject:
   - component: {fileID: 1663623263}
   - component: {fileID: 1663623262}
   m_Layer: 0
-  m_Name: "\u043F\u0440\u0438\u043D\u0446\u0435\u0441\u0441\u0430"
+  m_Name: Princess
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2359,7 +2359,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 50
-  m_Sprite: {fileID: 21300000, guid: bc8f735efd7c2be46993343ee031cdbf, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 58b1fa4271bf97547b5ad3232dc7ca3b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

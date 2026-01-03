@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>BikeRacer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      background: black;
+      overflow: hidden;
+    }
+    #unity-canvas {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+    #status {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      color: white;
+      font-family: sans-serif;
+      z-index: 1000;
+      background: rgba(0,0,0,0.5);
+      padding: 5px 10px;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="unity-canvas"></canvas>
+  <div id="status">Статус: старт</div>
+
+  <script>
+    var statusDiv = document.getElementById("status");
+
+    function setStatus(text) {
+      console.log(text);
+      statusDiv.innerText = "Статус: " + text;
+    }
+
+    setStatus("Создаём loader script");
+
+    var buildUrl = "Build/BikeRacer";
+    var loaderUrl = buildUrl + ".loader.js";
+
+    var config = {
+      dataUrl: buildUrl + ".data.br",
+      frameworkUrl: buildUrl + ".framework.js.br",
+      codeUrl: buildUrl + ".wasm.br",
+      streamingAssetsUrl: "StreamingAssets",
+      companyName: "Company",
+      productName: "BikeRacer",
+      productVersion: "1.0"
+    };
+
+    var canvas = document.getElementById("unity-canvas");
+    var script = document.createElement("script");
+    script.src = loaderUrl;
+
+    script.onload = function() {
+      setStatus("Loader загружен, создаём UnityInstance");
+      createUnityInstance(canvas, config)
+        .then((unityInstance) => {
+          setStatus("Unity загружен успешно");
+          // скрываем статус после успешной загрузки
+          statusDiv.style.display = "none";
+        })
+        .catch((err) => {
+          setStatus("Ошибка при создании UnityInstance");
+          console.error(err);
+          alert("Ошибка при загрузке Unity: " + err);
+        });
+    };
+
+    script.onerror = function() {
+      setStatus("Ошибка загрузки loader.js");
+      console.error("Не удалось загрузить loader.js по пути: " + loaderUrl);
+    };
+
+    document.body.appendChild(script);
+  </script>
+</body>
+</html>
